@@ -54,8 +54,8 @@ The detailed usage of these bash script has been provide in the new Readme.md fi
 Corresponding dataset path is 
 ```json
 {
-    "Medical_QA": RewardDS_Dataset/Medical_QA,
-    "Financial_QA": RewardDS_Dataset/Financial_QA,
-    "Code_Generation": RewardDS_Dataset/Code_Generation
+    "Medical_QA": "RewardDS_Dataset/Medical_QA",
+    "Financial_QA": "RewardDS_Dataset/Financial_QA",
+    "Code_Generation": "RewardDS_Dataset/Code_Generation"
 }
 ```
